@@ -313,7 +313,7 @@ section .dynamic-block-section
 
 
 section .dynamic-block-image {
-    background: url("./img/sgal.svg") no-repeat;
+    background: url("../img/sgal.svg") no-repeat;
     width: 44px;
     height: 44px;
     background-size: contain;
@@ -340,7 +340,7 @@ section .row {
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    /* font-size: 1.3rem; */
+    font-size: 1.3rem;
 }
 
 section .col-sm {
@@ -1071,4 +1071,9 @@ section .bold {
 section .flex-hack {
     display: block;
     flex: 1 1 100% !important;
+}
+
+.visual-block-4 {
+    font-size: 2rem;
+    color:#fc8e40;
 }
