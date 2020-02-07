@@ -340,7 +340,7 @@ section .row {
     display: flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    font-size: 1.3rem;
+    /* font-size: 1.3rem; */
 }
 
 section .col-sm {
@@ -787,7 +787,7 @@ section #contacts {
         max-width: 100%;
         display: flex;
         position: relative;
-        height: 100%;
+        /* height: 100%; */
     }
 
     section  #features .col-sm {
@@ -1039,6 +1039,8 @@ section .col-sm p {
     position: relative;
     padding: inherit;
     /* margin: auto; */
+    display: flex;
+    align-items: center;
 }
 
 @media screen and (max-width: 500px) { 
@@ -1060,4 +1062,13 @@ section .top-text {
 #logo {
     width: fit-content;
     margin: auto;
+}
+
+section .bold {
+    font-weight: bold;
+}
+
+section .flex-hack {
+    display: block;
+    flex: 1 1 100% !important;
 }
