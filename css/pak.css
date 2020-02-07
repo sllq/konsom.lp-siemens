@@ -313,7 +313,7 @@ section .dynamic-block-section
 
 
 section .dynamic-block-image {
-    background: url("/stock/themes/konsom/css/solutions-lp/img/sgal.svg") no-repeat;
+    background: url("./img/sgal.svg") no-repeat;
     width: 44px;
     height: 44px;
     background-size: contain;
