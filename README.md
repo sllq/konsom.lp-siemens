@@ -1,1 +1,1 @@
-#konsom.lp-siemens.desctop1
+#konsom.lp-siemens.desktop1
