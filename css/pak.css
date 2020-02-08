@@ -197,7 +197,7 @@ section .wrap {
 }
 
 section .heading span{
-    padding: 0;
+    padding:0;
     font-size: 1em;
     line-height: 1.2;
 }
@@ -988,6 +988,8 @@ section .col-sm span {
     /* vertical-align: middle; */
     text-align: justify;
     /* margin: -5px 10px 0 10px; */
+    align-items: center;
+    display: flex;
 }
 
 section .container-wrapper {
