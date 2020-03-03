@@ -1,0 +1,93 @@
+<svg id="_1" data-name="1" xmlns="http://www.w3.org/2000/svg" width="264.8mm" height="89.1mm" viewBox="0 0 750.5 252.5">
+  <defs>
+    <style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+      .cls-1 {
+        fill: #41aac8;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #a5e1e1;
+        stroke-miterlimit: 22.93;
+        stroke-width: 2.4px;
+      }
+
+      .cls-2 {
+        fill: #4f9fbb;
+      }
+
+      .cls-3 {
+        fill: #005f87;
+      }
+
+      .cls-4 {
+        font-size: 15px;
+        font-family: Open Sans-Bold, Open Sans;
+      }
+
+      .cls-10, .cls-11, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-4 {
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #a3b853;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        opacity: 0.8;
+      }
+
+      .cls-6 {
+        fill: #a0b266;
+      }
+
+      .cls-7 {
+        fill: #77aaad;
+      }
+
+      .cls-8 {
+        fill: #4d7882;
+      }
+
+      .cls-9 {
+        fill: #0c3544;
+      }
+
+      .cls-10 {
+        font-size: 35px;
+        font-family: Open Sans-SemiBold, Open Sans;
+      }
+
+      .cls-11 {
+        font-size: 12px;
+        font-family: Open Sans-Regular, Open Sans;
+      }
+    </style>
+  </defs>
+  <title>решения для всей цепочки создания ценности</title>
+  <rect class="cls-1" x="88.4" y="64.8" width="176" height="175.97" transform="translate(-106.7 142.8) rotate(-45)"/>
+  <rect class="cls-2" x="337.4" y="65" width="176" height="175.97" transform="translate(-33.9 318.9) rotate(-45)"/>
+  <rect class="cls-3" x="586.7" y="65.1" width="176" height="175.97" transform="translate(39.1 495.2) rotate(-45)"/>
+  <text class="cls-4" transform="translate(76.5 81.8)">РАЗРАБОТКА</text>
+  <text class="cls-4" transform="translate(325.7 80.2)">РЕАЛИЗАЦИЯ</text>
+  <text class="cls-4" transform="translate(565.6 80.2)">ЭКСПЛУАТАЦИЯ</text>
+  <polygon class="cls-5" points="171.8 164.2 59.1 164.2 97.1 130.6 59.1 95 171.8 95 210.8 129.6 171.8 164.2"/>
+  <polygon class="cls-6" points="293.5 164.2 180.9 164.2 218.9 130.6 180.9 95 293.5 95 332.5 129.6 293.5 164.2"/>
+  <polygon class="cls-7" points="415.3 164.2 302.6 164.2 340.6 130.6 302.6 95 415.3 95 454.3 129.6 415.3 164.2"/>
+  <polygon class="cls-8" points="537.1 164.2 424.4 164.2 462.4 130.6 424.4 95 537.1 95 576.1 129.6 537.1 164.2"/>
+  <polygon class="cls-9" points="658.9 164.2 546.2 164.2 584.2 130.6 546.2 95 658.9 95 697.9 129.6 658.9 164.2"/>
+  <text class="cls-10" transform="translate(214.1 139.9)">2</text>
+  <text class="cls-11" transform="translate(234 122.6)">Планирование<tspan x="0" y="12">производства</tspan></text>
+  <text class="cls-10" transform="translate(335.6 139.5)">3</text>
+  <text class="cls-11" transform="translate(358 122.7)">Инжиниринг<tspan x="0" y="12">производства</tspan></text>
+  <text class="cls-10" transform="translate(462.6 139.6)">4</text>
+  <text class="cls-11" transform="translate(483.2 130.1)">Производство</text>
+  <text class="cls-10" transform="translate(582 139.3)">5</text>
+  <text class="cls-11" transform="translate(602.3 130.4)">Обслуживание</text>
+  <text class="cls-10" transform="translate(91.6 139.6)">1</text>
+  <text class="cls-11" transform="translate(109.1 122.6)">Планирование<tspan x="0" y="12">продукта</tspan></text>
+</svg>

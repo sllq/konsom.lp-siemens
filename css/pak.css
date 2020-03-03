@@ -1095,7 +1095,7 @@ section .bold {
 }
 
 section .flex-hack {
-    display: block;
+    /* display: block; */
     flex: 1 1 100% !important;
 }
 

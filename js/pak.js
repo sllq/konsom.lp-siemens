@@ -68,3 +68,19 @@ $( document ).ready(function() {
             }]
     });
 });
+
+$( document ).ready(function() {
+  $('.relative-slider-2').slick({
+      slidesToShow: 1,
+      adaptiveHeight: false,
+      useTransform: false,
+      dots: false,
+      dotsClass: "slick-dots-konsom",
+      arrows: true,
+      prevArrow: $('.prev'),
+      nextArrow: $('.next'),
+      autoplay: true,
+      autoplaySpeed: 3000,
+      infinite: true,
+  });
+});

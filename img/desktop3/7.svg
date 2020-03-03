@@ -1,0 +1,61 @@
+<svg id="_1" data-name="1" xmlns="http://www.w3.org/2000/svg" width="370.9mm" height="161.6mm" viewBox="0 0 1051.3 458.2">
+  <defs>
+    <style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+      .cls-1 {
+        fill: #8f7d7a;
+      }
+
+      .cls-2 {
+        font-size: 20px;
+        fill: #fff;
+        font-family: Open Sans-Regular, Open Sans;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 22.93;
+        stroke-width: 2.4px;
+        stroke-dasharray: 4.8 12;
+      }
+
+      .cls-4 {
+        fill: #1d1d1b;
+      }
+    </style>
+  </defs>
+  <title>организация проектных работ</title>
+  <rect class="cls-1" width="295.9" height="98.05"/>
+  <rect class="cls-1" x="755.4" width="295.9" height="98.05"/>
+  <rect class="cls-1" x="755.4" y="180.1" width="295.9" height="98.06"/>
+  <rect class="cls-1" x="755.4" y="360.1" width="295.9" height="98.05"/>
+  <rect class="cls-1" x="377.4" width="295.9" height="98.05"/>
+  <rect class="cls-1" x="377.5" y="360.1" width="295.9" height="98.05"/>
+  <text class="cls-2" transform="translate(17.4 30.2)">Постановка задачи, целей <tspan x="29.4" y="20">и критериев оценки </tspan><tspan x="5.9" y="40">результатов и симуляции</tspan></text>
+  <text class="cls-2" transform="translate(417.4 43.6)">Сбор и формализация<tspan x="71.9" y="20">данных</tspan></text>
+  <text class="cls-2" transform="translate(854.5 45.8)">Создание <tspan x="-64" y="20">имитационной модели</tspan></text>
+  <text class="cls-2" transform="translate(790.8 210.3)">Проверка модели и её <tspan x="2.7" y="20">работы на различных </tspan><tspan x="-17.9" y="40">наборах исходных данных</tspan></text>
+  <text class="cls-2" transform="translate(765.6 402.6)">Проведение экспериментов<tspan x="13.5" y="20">и получение результатов</tspan></text>
+  <text class="cls-2" transform="translate(437.4 390.3)">Интерпретация и <tspan x="-5.8" y="20">документирование</tspan><tspan x="-34.5" y="40">полученных результатов</tspan></text>
+  <g>
+    <line class="cls-3" x1="295.9" y1="49" x2="368.9" y2="49"/>
+    <polygon class="cls-4" points="377.4 49 364.6 61.9 364.6 36.2 377.4 49"/>
+  </g>
+  <g>
+    <line class="cls-3" x1="674.4" y1="43.6" x2="747.3" y2="43.6"/>
+    <polygon class="cls-4" points="755.9 43.6 743.1 56.4 743.1 30.8 755.9 43.6"/>
+  </g>
+  <g>
+    <line class="cls-3" x1="903.9" y1="98.1" x2="903.9" y2="171"/>
+    <polygon class="cls-4" points="903.9 179.6 891 166.8 916.7 166.8 903.9 179.6"/>
+  </g>
+  <g>
+    <line class="cls-3" x1="903.9" y1="278.7" x2="903.9" y2="351.7"/>
+    <polygon class="cls-4" points="903.9 360.2 891.1 347.4 916.7 347.4 903.9 360.2"/>
+  </g>
+  <g>
+    <line class="cls-3" x1="755" y1="409.2" x2="682" y2="409.2"/>
+    <polygon class="cls-4" points="673.4 409.2 686.3 396.3 686.3 422 673.4 409.2"/>
+  </g>
+</svg>

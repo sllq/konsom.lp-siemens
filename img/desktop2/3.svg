@@ -1,0 +1,70 @@
+<svg id="_1" data-name="1" xmlns="http://www.w3.org/2000/svg" width="283.3mm" height="180.5mm" viewBox="0 0 803.1 511.7">
+  <defs>
+    <style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+      .cls-1 {
+        fill: #4f351a;
+        stroke-miterlimit: 10;
+        opacity: 0.8;
+      }
+
+      .cls-1, .cls-5 {
+        stroke: #000;
+      }
+
+      .cls-2 {
+        font-size: 13px;
+        fill: #fff;
+        font-family: Open Sans-Regular, Open Sans;
+      }
+
+      .cls-3 {
+        font-size: 16px;
+        font-family: Open Sans-Bold, Open Sans;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke-miterlimit: 22.93;
+        stroke-width: 0.57px;
+      }
+    </style>
+  </defs>
+  <title>Интеграция</title>
+  <circle class="cls-1" cx="66.5" cy="67" r="66"/>
+  <circle class="cls-1" cx="288.5" cy="155.8" r="66"/>
+  <circle class="cls-1" cx="513.1" cy="66.5" r="66"/>
+  <circle class="cls-1" cx="736.3" cy="156.7" r="66"/>
+  <circle class="cls-1" cx="736.6" cy="445.2" r="66"/>
+  <circle class="cls-1" cx="512.9" cy="355" r="66"/>
+  <circle class="cls-1" cx="290" cy="444.4" r="66"/>
+  <circle class="cls-1" cx="67" cy="355.9" r="66"/>
+  <text class="cls-2" transform="translate(26.6 71.6)">ERP<tspan x="23.1" y="0">-системы</tspan></text>
+  <text class="cls-2" transform="translate(245 160.4)">SFDC <tspan x="34.9" y="0">системы</tspan></text>
+  <text class="cls-2" transform="translate(471.6 71.1)">MES<tspan x="26.1" y="0">-системы</tspan></text>
+  <text class="cls-2" transform="translate(694.3 151.4)">Электронные<tspan x="15.2" y="13">таблицы</tspan></text>
+  <text class="cls-2" transform="translate(457.4 355)">Окно оповещения<tspan x="5.2" y="13">в планировщике</tspan></text>
+  <text class="cls-2" transform="translate(267 422.9)">Импорт<tspan x="-36" y="13">производственных</tspan><tspan x="-5.6" y="26">заказов и</tspan><tspan x="-6.8" y="39">операций</tspan></text>
+  <text class="cls-2" transform="translate(11.9 351.7)">Импорт ресурсов<tspan x="9.2" y="13">из </tspan><tspan x="27.1" y="13">MES-систем</tspan></text>
+  <text class="cls-2" transform="translate(716.4 418.8)">ПО для<tspan x="-25.9" y="13">бухгалтерского</tspan><tspan x="-2.5" y="26">учёта и </tspan><tspan x="-34.6" y="39">прогнозирования</tspan></text>
+  <text class="cls-3" transform="translate(89.1 251.3)">Sie<tspan class="cls-4" x="23.1" y="0">mens Opcenter APS</tspan></text>
+  <line class="cls-5" x1="80.7" y1="131.4" x2="162.1" y2="228.6"/>
+  <line class="cls-5" x1="233.2" y1="191.8" x2="194.2" y2="229.3"/>
+  <line class="cls-5" x1="113.8" y1="309.2" x2="161.8" y2="260"/>
+  <line class="cls-5" x1="192.8" y1="260" x2="265.3" y2="383.2"/>
+  <line class="cls-5" x1="298.9" y1="378.9" x2="386.4" y2="260.5"/>
+  <line class="cls-5" x1="347.4" y1="187.1" x2="388.5" y2="230.1"/>
+  <line class="cls-5" x1="482.9" y1="125.2" x2="418.2" y2="229.4"/>
+  <line class="cls-5" x1="416.7" y1="260.4" x2="466.1" y2="308.5"/>
+  <line class="cls-5" x1="546.3" y1="124.5" x2="612.4" y2="226.9"/>
+  <line class="cls-5" x1="642.6" y1="230" x2="683.5" y2="197.1"/>
+  <line class="cls-5" x1="710.8" y1="383.8" x2="638" y2="260.1"/>
+  <line class="cls-5" x1="609.9" y1="256.6" x2="567" y2="317.2"/>
+  <text class="cls-3" transform="translate(318.6 251.3)">Sie<tspan class="cls-4" x="23.1" y="0">mens Opcenter APS</tspan></text>
+  <text class="cls-3" transform="translate(542.9 251.3)">Sie<tspan x="23.1" y="0">mens Opcenter APS</tspan></text>
+</svg>
